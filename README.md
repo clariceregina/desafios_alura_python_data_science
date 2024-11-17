@@ -15,3 +15,11 @@ Repositório criado para compartilhar os códigos por mim criados a partir dos d
 ### Editando Textos
 
 *   Neste código é possível observar diversas interações com as strings: tudo maiúsculo, tudo minúsculo, sem espaço no início e no final e substituição de letras.
+
+### Condicional
+
+* Na construção destes códigos utilizei as estruturas condicionais if, elif e else.
+
+### While e For
+
+* Neste arquivo é possível conferir códigos construídos utilizando as estruturas de repetição While e For.
